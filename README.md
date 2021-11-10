@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 
 Contribute here
 
-2021 Git.Training.
+2021 Git.Training. All rights reserved
